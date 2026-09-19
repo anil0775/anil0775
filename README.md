@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Anil
 - 👀 I’m interested in solving customer problems using digital technologies....
-- 🌱 I’m currently learning Reactjs.....
-- 💞️ I’m looking to collaborate on Web & Mobile app Development
 - 📫 Reach me at anilbng75@gmail.com
 
 <!---
