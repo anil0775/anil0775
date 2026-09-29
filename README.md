@@ -75,7 +75,7 @@ My experience spans healthcare and medical devices, imaging systems, PACS/RIS, t
 ## Connect
 
 - 🌐 https://www.workwithanil.com
-- 📫 anilbng75@gmail.com
+- 📫 anil.srinivas@workwithanil.com/anilbng75@gmail.com
 
 ---
 
