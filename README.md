@@ -21,11 +21,11 @@ I use GitHub as a working portfolio for selected ideas, frameworks, MVPs and pro
 - AI assurance and release-readiness tools
 - AI workflow and agent assurance concepts
 - AI-assisted QE utilities
-- test-generation and quality-engineering tools
+- Test-generation and quality-engineering tools
 - AI governance productivity tools
-- healthcare and MedTech concepts
+- Healthcare and MedTech concepts
 - SaaS and AI-powered MVPs
-- product and platform experiments
+- Product and platform experiments
 
 ## My Direction
 
